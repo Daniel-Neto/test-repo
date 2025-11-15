@@ -1,1 +1,3 @@
-new sample file - GUI
+Adding a new line
+
+new line
